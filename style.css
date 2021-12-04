@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+ul{
+    list-style-type: none;
+    background-color: black;
+    overflow: hidden;
+
+
+}
+
+li a{
+    float: left;
+    display: block;
+    color: orange;
+    text-align: center;
+    padding:25px 25px ;
+}
+.righty{
+    float: right;
+}
+
+div{
+  
+ min-height: 600px;
+}
+p, h2, h1{
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+}
