@@ -31,7 +31,9 @@ li a{
 
 div{
   
- min-height: 600px;
+
+ min-height: 50vh;
+background: transparent;
 }
 p, h2, h1{
     text-align: center;
